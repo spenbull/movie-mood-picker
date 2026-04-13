@@ -121,4 +121,4 @@ Spencer Bullock
 
 ## Notes
 
-This project was created as part of the IS 537 Semester Project to demonstrate understanding of React, TypeScript, API integration, and UI/UX design.
+This project was created as part of the IS 542 Semester Project to demonstrate understanding of React, TypeScript, API integration, and UI/UX design.
